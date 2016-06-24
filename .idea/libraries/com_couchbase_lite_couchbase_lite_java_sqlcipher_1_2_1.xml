@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="com.couchbase.lite:couchbase-lite-java-sqlcipher:1.2.1" type="repository">
+    <properties maven-id="com.couchbase.lite:couchbase-lite-java-sqlcipher:1.2.1" />
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/couchbase/lite/couchbase-lite-java-sqlcipher/1.2.1/couchbase-lite-java-sqlcipher-1.2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
